@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rog3rSm1th</h1>
-<h3 align="center">I am a 20 years old self-taught developer from France, and I am mainly interested in computer security and OSINT</h3>
+<h3 align="center">I am a 21 years old self-taught developer from France, and I am mainly interested in computer security and OSINT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rog3rSm1th" alt="Rog3rSm1th" /> </p>
 
