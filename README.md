@@ -21,3 +21,9 @@ Hey ! 👋 I'm Rog3rSm1th, I'm 21 years old and I'm a French computer and cybers
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rog3rSm1th&show_icons=true&include_all_commits=true">
 </p>
+
+---
+
+<h3 align="left">🔴 Hire me:</h3>
+
+➜ If you want to hire me for one of your projects (Programming, cybersecurity...), just contact me at r0g3r5@protonmail.com and we will assess your needs together.
